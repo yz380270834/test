@@ -1,2 +1,2 @@
-a = "hello test 3"
+a = "hello test 666"
 print(a)
